@@ -278,14 +278,15 @@ var loadRefuge = function(ll, funcnext) {
 				ic:地理座標 / ic:緯度 ?lat;
 				ic:地理座標 / ic:経度 ?lng.
 			optional { ?url ic:説明 ?desc }.
+			%FILTER%
 		} }
 	*/});
-//			%FILTER%
 //				filter(lang(?name)="ja")
 	
-	var filter = "filter(xsd:float(?lat) < " + latmax + " && xsd:float(?lat) > " + latmin + " && xsd:float(?lng) < " + lngmax + " && xsd:float(?lng) > " + lngmin + ")\n";
-//	var filter = "";
+//	var filter = "filter(xsd:float(?lat) < " + latmax + " && xsd:float(?lat) > " + latmin + " && xsd:float(?lng) < " + lngmax + " && xsd:float(?lng) > " + lngmin + ")\n";
+	var filter = "";
 	q = q.replace("%FILTER%", filter);
+	prompt(q);
 
 /*
 	var q =
