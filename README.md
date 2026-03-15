@@ -1,4 +1,7 @@
 # findspot
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Explore tourist spots (Kyoto, ODP SPARQL endpoint)
 
 ## Demo
