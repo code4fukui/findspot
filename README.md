@@ -26,4 +26,4 @@ https://codeforfukui.github.io/findspot/
 This project uses the Open Data Portal (ODP) and Kyoto City's SPARQL endpoints to retrieve tourist spot information.
 
 ## License
-This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+MIT License — see [LICENSE](LICENSE).
