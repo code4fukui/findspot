@@ -4,7 +4,7 @@
 
 ## デモ
 
-https://codeforfukui.github.io/findspot/
+~~https://codeforfukui.github.io/findspot/~~ *(unavailable)*
 
 デモでは、京都を中心としたインタラクティブなGoogleマップが表示され、観光スポットがマーカーで示されます。
 
@@ -24,7 +24,7 @@ https://codeforfukui.github.io/findspot/
 
 ## 使い方
 
-1. ブラウザで[デモページ](https://codeforfukui.github.io/findspot/)を開きます。
+1. ブラウザでデモページ *(demo unavailable)*を開きます。
 2. 京都駅周辺の観光スポットとともにマップが読み込まれます。
 3. ドロップダウンメニューを使用して、探索したい別の都市を選択します。
 4. 「Nearest」ボタンをクリックすると、現在地に最も近いスポットを検索します。

@@ -6,7 +6,7 @@ A web application for exploring tourist spots in Japan by querying public SPARQL
 
 ## Demo
 
-https://codeforfukui.github.io/findspot/
+~~https://codeforfukui.github.io/findspot/~~ *(unavailable)*
 
 The demo displays an interactive Google Map centered on Kyoto, showing tourist locations with markers.
 
@@ -28,7 +28,7 @@ The demo displays an interactive Google Map centered on Kyoto, showing tourist l
 
 ## Usage
 
-1.  Open the [demo page](https://codeforfukui.github.io/findspot/) in your browser.
+1.  Open the demo page *(demo unavailable)* in your browser.
 2.  The map will load with tourist spots around Kyoto Station.
 3.  Use the dropdown menu to select a different city to explore.
 4.  Click the "Nearest" button to find the closest spot to your current location.
